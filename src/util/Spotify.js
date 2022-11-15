@@ -1,7 +1,7 @@
 
 const clientID = 'bb6d08a9fb234b41b571cabceee8517f';
-const redirectUri = 'http://localhost:3000/';
-// const = ' https://jammming-8we.pages.dev/'
+// const redirectUri = 'http://localhost:3000/';
+const redirectUri= 'https://jammming-one.vercel.app/'
 let accessToken = '';
 
 const Spotify = {
